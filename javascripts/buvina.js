@@ -1,4 +1,5 @@
 <script type="text/javascript">
+  alert('Alert from nowhere');
   import React from 'react';
   import ReactDOM from 'react-dom';
 
